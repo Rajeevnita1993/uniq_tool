@@ -17,7 +17,7 @@ setup(
     description='A custom uniq tool in Python',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/Rajeevnita1993/grep-tool/tree/main/grep_tool',
+    url='https://github.com/Rajeevnita1993/uniq_tool',
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
